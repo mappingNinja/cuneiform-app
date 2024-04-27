@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* Article CSS  */
+
+.article-item-container {
+  margin: 5%;
+}
+
+.article-form {
+  margin: 20px;
+}
+
+.article-container {
+  width: 50%;
+  border-radius: 5px;
+}
